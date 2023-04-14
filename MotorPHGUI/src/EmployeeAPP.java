@@ -58,9 +58,9 @@ public class EmployeeAPP implements ActionListener  {
 		panel.add(benefitslabel);
 		
 		
-		JLabel riceSubcidylabel = new JLabel("Rice Subcidy:");
-		riceSubcidylabel.setBounds(400, 60, 100, 30);
-		panel.add(riceSubcidylabel);
+		JLabel riceSubsidylabel = new JLabel("Rice Subsidy:");
+		riceSubsidylabel.setBounds(400, 60, 100, 30);
+		panel.add(riceSubsidylabel);
 		
 		
 		JLabel phoneAllowancelabel = new JLabel("Phone Allowance:");
